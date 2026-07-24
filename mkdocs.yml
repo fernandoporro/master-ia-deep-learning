@@ -28,6 +28,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Guía de uso: GUIA.md
   - Cómo funciona: METODOLOGIA.md
   - Temario: TEMARIO.md
   - Plan de estudio: PLAN.md

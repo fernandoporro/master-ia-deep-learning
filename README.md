@@ -82,6 +82,8 @@ master/
 └── .claude/               ← CLAUDE.md se carga solo; /empezar, /progreso, /examen
 ```
 
+> 📘 **¿Primera vez o tienes dudas?** Lee la [Guía de uso](docs/GUIA.md).
+
 **Para empezar una sesión de estudio**, dime algo como:
 - *"Empecemos el Módulo 0, lección 1"*
 - *"Continuemos por donde lo dejamos"* (miro `docs/PROGRESO.md`)
