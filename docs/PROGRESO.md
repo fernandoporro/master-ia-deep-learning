@@ -3,6 +3,7 @@
 Tu tracker de avance. Marca `[x]` según completes lecciones, proyectos y tests. Yo lo mantengo actualizado cada vez que trabajemos, pero es tuyo — edítalo cuando quieras.
 
 **Estado global:** 🟡 Recién empezado — estructura montada, listo para el Módulo 0.
+**Ritmo objetivo:** 3 sesiones/semana (flexible) — ver [PLAN.md](PLAN.md). ~6 meses.
 **Última sesión:** 24 jul 2026 — creación del plan y estructura del curso.
 **Siguiente paso:** Módulo 0, lección 0.1.
 

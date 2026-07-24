@@ -15,6 +15,7 @@ Desarrollador con **Python sólido** y **matemáticas a nivel intuitivo** (expli
 - **Cubrir TODO el contenido del máster oficial.** El mapa de cobertura está en `docs/COBERTURA-MASTER.md`; no te saltes temas aunque el curso esté adaptado a su caso de uso.
 - El temario completo está en `docs/TEMARIO.md`.
 - Los comandos `/empezar`, `/progreso` y `/examen` son los rituales del alumno (definidos en `.claude/commands/`).
+- **Ritmo objetivo: 3 sesiones/semana (flexible)**; plan semana a semana en `docs/PLAN.md`. Cada 3–4 semanas, ofrece un `/examen` de repaso espaciado de módulos anteriores.
 
 ## Qué modelo conviene (recordatorio, detalle en METODOLOGIA.md)
 - **Opus 4.8**: crear lecciones, diseñar/revisar proyectos, conceptos profundos, capstone.
