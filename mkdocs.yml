@@ -1,0 +1,51 @@
+site_name: Máster propio en IA
+site_description: Curso-libro autodidacta de IA, Machine Learning y Deep Learning
+docs_dir: docs
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - content.code.copy
+    - search.highlight
+    - toc.follow
+
+nav:
+  - Inicio: index.md
+  - Cómo funciona: METODOLOGIA.md
+  - Temario: TEMARIO.md
+  - Cobertura del máster: COBERTURA-MASTER.md
+  - Progreso: PROGRESO.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.details
+
+plugins:
+  - search:
+      lang: es

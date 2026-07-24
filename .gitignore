@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MkDocs (la web se construye en CI, no se versiona)
+site/
+_site/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Datos grandes (descoméntalo si guardas datasets pesados)
+# recursos/datasets/
