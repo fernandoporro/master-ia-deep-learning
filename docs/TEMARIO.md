@@ -120,13 +120,32 @@ Leyenda: cada lección tiene intuición → teoría mínima → práctica → ej
 - **6.8 — Fine-tuning práctico**: cuándo merece la pena, cómo se hace, alternativas más baratas.
 - **6.9 — Evaluación de sistemas de IA**: cómo saber si tu app de GenAI funciona bien (más difícil de lo que parece).
 - **6.10 — Poner GenAI en producción**: coste, latencia, caché, seguridad, límites.
-- **🛠️ Proyecto Capstone**: Una aplicación de GenAI completa de principio a fin (p.ej. un asistente con RAG sobre documentos + tool use + memoria). Este es tu "Trabajo Final de Máster".
-- **✅ Test 6 + defensa del capstone**
+- **🛠️ Proyecto 6**: Una aplicación de GenAI completa de principio a fin (un asistente con RAG sobre documentos + tool use + memoria).
+- **✅ Test 6**
+
+---
+
+## Módulo 7 — Ingeniería de Agentes en Producción ⭐
+
+*El nivel más avanzado y el más cercano a tu trabajo real. Construir agentes robustos, RAG avanzado, MCP servers y sistemas multi-agente listos para producción. **Integra el curso de Skillsoft "IA Avanzada Aplicada a Agentes"** (ver [COBERTURA-MASTER.md](COBERTURA-MASTER.md)). Requiere haber pasado por los Módulos 5 y 6.*
+
+- **7.1 — Patrones de arquitectura de agentes**: ReAct, Plan-and-Execute, Reflexion, Tool-Use. Agentes conversacionales vs autónomos. Ciclo percepción → razonamiento → acción → observación. Manejo de errores y fallbacks.
+- **7.2 — LangChain a fondo**: Chains, Agents, Tools, Memory, Callbacks. Output parsers para estructurar respuestas (JSON, Pydantic).
+- **7.3 — LangGraph**: agentes como grafos de estado, flujos condicionales. Gestión de estado y memoria: corto plazo (conversación) vs largo plazo (persistente).
+- **7.4 — Otros frameworks de orquestación**: CrewAI, AutoGen, Semantic Kernel. Comparativa: cuándo usar cada uno.
+- **7.5 — RAG avanzado**: re-ranking, query expansion, hybrid search (semántico + BM25). RAG sobre documentación técnica (markdown, código, APIs).
+- **7.6 — Evaluación de pipelines RAG**: relevancia, fidelidad y cobertura. Métricas cuantitativas para saber si tu RAG funciona de verdad.
+- **7.7 — Model Context Protocol (MCP) I**: especificación, transports (stdio, SSE, streamable-http), lifecycle. Diseñar un MCP server (tools, resources, prompts).
+- **7.8 — Model Context Protocol (MCP) II**: integración con APIs REST corporativas, seguridad (autenticación, autorización, validación de inputs) y testing (unit, integration, mocking).
+- **7.9 — Sistemas multi-agente**: arquitecturas (jerárquica, peer-to-peer, orquestador central). Delegación entre subagentes, contexto compartido vs aislado, coordinación (secuencial, paralelo, condicional), versionado.
+- **7.10 — Diseño de tools y plugins para agentes**: herramientas efectivas, JSON Schema de entrada/salida, wrapping de APIs existentes, testing de tools y documentación para que el LLM las use bien.
+- **🛠️ Proyecto Capstone (TFM)**: Un **sistema multi-agente en producción** — RAG avanzado + un MCP server integrado con una API real + orquestación multi-agente. Tu "Trabajo Final de Máster" y la pieza estrella del portfolio.
+- **✅ Test 7 + defensa del capstone**
 
 ---
 
 ## Al terminar
 
-Tendrás el libro-curso completo, 6 proyectos + capstone en tu portfolio, y — más importante — entenderás de arriba a abajo las herramientas de IA que hoy usas a ciegas, con capacidad para construir las tuyas.
+Tendrás el libro-curso completo, 7 proyectos + un capstone final en tu portfolio, y — más importante — entenderás de arriba a abajo las herramientas de IA que hoy usas a ciegas, con capacidad para construir sistemas de agentes de nivel producción.
 
 *Siguiente paso: dime "empecemos el Módulo 0, lección 1" y arrancamos.*

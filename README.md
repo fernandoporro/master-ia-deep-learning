@@ -21,7 +21,7 @@ Al terminar, tendrás:
 
 1. **Un libro-curso** en Markdown (este repo) que puedes leer, compartir o publicar.
 2. **Notebooks ejecutables** con todo el código de cada lección.
-3. **6 proyectos reales** que funcionan (no ejercicios de academia) + 1 proyecto final (capstone).
+3. **7 proyectos reales** que funcionan (no ejercicios de academia) + 1 capstone final.
 4. **Tests de validación** por módulo para demostrar — a ti mismo y a otros — que lo has aprendido.
 5. Un **portfolio público en GitHub** que para el mercado tech pesa más que un título de formación permanente.
 
@@ -36,7 +36,7 @@ Al terminar, tendrás:
 
 ---
 
-## Los 6 módulos de un vistazo
+## Los módulos de un vistazo
 
 | # | Módulo | Qué aprendes | Proyecto |
 |---|--------|--------------|----------|
@@ -46,7 +46,8 @@ Al terminar, tendrás:
 | 3 | **Deep Learning desde cero** | Redes neuronales, PyTorch, backprop intuitivo, entrenar tu primera red | Clasificador de imágenes |
 | 4 | **Big Data y Cloud AI** | Procesar a escala, cuándo/por qué, nociones de cloud | Pipeline de datos |
 | 5 | **NLP y Foundation Models** | Embeddings, transformers, usar modelos preentrenados (Hugging Face) | Buscador semántico |
-| 6 | **Generative AI aplicada** | LLMs por dentro, RAG, fine-tuning, agentes, construir con APIs | **Capstone: app GenAI completa** |
+| 6 | **Generative AI aplicada** | LLMs por dentro, RAG, fine-tuning, agentes, construir con APIs | App GenAI con RAG |
+| 7 | **Ingeniería de Agentes en Producción** | Agentes robustos (ReAct, LangGraph), RAG avanzado, MCP servers, multi-agente | **Capstone: sistema multi-agente** |
 
 > Este recorrido respeta el espíritu del máster (Data Science → ML → Deep Learning → Foundation Models → GenAI) pero está reordenado y reforzado para un desarrollador, con mucho más peso práctico en la parte de GenAI aplicada — que es donde más valor sacarás en tu trabajo.
 
@@ -57,7 +58,9 @@ Al terminar, tendrás:
 | Data Science, Big Data, Programming Fundamentals | Módulos 0, 1, 4 |
 | Cloud, Modern Databases, Machine Learning | Módulos 2, 4 |
 | Deep Learning, Foundation Models, Generative AI | Módulos 3, 5, 6 |
-| Trabajo Final de Máster | Proyecto Capstone (Módulo 6) |
+| Trabajo Final de Máster | Proyecto Capstone (Módulo 7) |
+
+> El **Módulo 7** integra además el curso de Skillsoft *"IA Avanzada Aplicada a Agentes"* (arquitecturas de agentes, LangChain/LangGraph, RAG avanzado, MCP, multi-agente). Mapeo completo en [docs/COBERTURA-MASTER.md](docs/COBERTURA-MASTER.md).
 
 ---
 

@@ -4,6 +4,8 @@ Tu manual para usar este curso: cómo empezar, cómo retomar y qué hacer ante l
 
 ---
 
+> ¿Ordenador nuevo o instalación desde cero? Mira primero **[Puesta en marcha](INSTALACION.md)** (requisitos, clonar el repo, cuenta de Claude).
+
 ## 🚀 Empezar (primera vez)
 
 1. Abre el terminal en la carpeta del proyecto (`master/`).

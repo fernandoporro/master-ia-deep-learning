@@ -13,6 +13,7 @@ Desarrollador con **Python sólido** y **matemáticas a nivel intuitivo** (expli
 
 ## Reglas del máster
 - **Cubrir TODO el contenido del máster oficial.** El mapa de cobertura está en `docs/COBERTURA-MASTER.md`; no te saltes temas aunque el curso esté adaptado a su caso de uso.
+- El **Módulo 7** integra además el curso Skillsoft de agentes avanzados (LangChain/LangGraph, RAG avanzado, MCP, multi-agente). Son 8 módulos (0–7); el capstone/TFM está al final del Módulo 7.
 - El temario completo está en `docs/TEMARIO.md`.
 - Los comandos `/empezar`, `/progreso` y `/examen` son los rituales del alumno (definidos en `.claude/commands/`).
 - **Ritmo objetivo: 3 sesiones/semana (flexible)**; plan semana a semana en `docs/PLAN.md`. Cada 3–4 semanas, ofrece un `/examen` de repaso espaciado de módulos anteriores.

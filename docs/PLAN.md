@@ -1,6 +1,6 @@
 # Plan de estudio
 
-**Ritmo:** 3 sesiones por semana · **Formato:** objetivo semanal flexible · **Duración estimada:** ~6 meses (~26 semanas).
+**Ritmo:** 3 sesiones por semana · **Formato:** objetivo semanal flexible · **Duración estimada:** ~7 meses (~30 semanas).
 
 Una "sesión" ≈ una lección de 30–60 min. Los proyectos pueden llevar 2 sesiones y el capstone varias.
 
@@ -49,9 +49,13 @@ Una "sesión" ≈ una lección de 30–60 min. Los proyectos pueden llevar 2 ses
 | 21 | 6 · Generative AI | 6.1 · 6.2 · 6.3 | |
 | 22 | 6 · Generative AI | 6.4 · 6.5 · 6.6 | |
 | 23 | 6 · Generative AI | 6.7 · 6.8 · 6.9 | |
-| 24 | 6 · Generative AI | 6.10 · Capstone (diseño) · Capstone | |
-| 25 | 6 · Generative AI | Capstone (construcción ×3) | |
-| 26 | 6 · Generative AI | Capstone (final) · Test 6 · 🎓 Defensa | ✅ Módulo 6 · 🎓 **¡Fin!** |
+| 24 | 6 · Generative AI | 6.10 · Proyecto 6 · Test 6 | ✅ Módulo 6 · 🔁 repaso |
+| 25 | 7 · Agentes en Producción | 7.1 · 7.2 · 7.3 | |
+| 26 | 7 · Agentes en Producción | 7.4 · 7.5 · 7.6 | 🔁 repaso |
+| 27 | 7 · Agentes en Producción | 7.7 · 7.8 · 7.9 | |
+| 28 | 7 · Agentes en Producción | 7.10 · Capstone (diseño) · Capstone | |
+| 29 | 7 · Agentes en Producción | Capstone (construcción ×3) | |
+| 30 | 7 · Agentes en Producción | Capstone (final) · Test 7 · 🎓 Defensa | ✅ Módulo 7 · 🎓 **¡Fin!** |
 
 ---
 
@@ -67,7 +71,7 @@ Una "sesión" ≈ una lección de 30–60 min. Los proyectos pueden llevar 2 ses
 
 Seamos precisos, sin vender humo:
 
-- El máster son **60 ECTS ≈ 1.500 horas** de trabajo nominal del alumno. Este plan son **~80–150 horas**. **En horas, no es lo mismo**, ni de lejos.
+- El máster son **60 ECTS ≈ 1.500 horas** de trabajo nominal del alumno. Este plan son **~100–180 horas** (más ahora, con el Módulo 7 de agentes integrado). **En horas, no es lo mismo**, ni de lejos.
 - Lo que **sí igualamos es el temario** (los temas del máster, mapeados en [COBERTURA-MASTER.md](COBERTURA-MASTER.md)); y en GenAI vamos más a fondo que el máster.
 - Lo que **no** igualamos es la **profundidad** de cada tema al nivel de esas 1.500 horas.
 

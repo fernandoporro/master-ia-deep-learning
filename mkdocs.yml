@@ -28,6 +28,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  - Puesta en marcha: INSTALACION.md
   - Guía de uso: GUIA.md
   - Cómo funciona: METODOLOGIA.md
   - Temario: TEMARIO.md

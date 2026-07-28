@@ -6,15 +6,16 @@ Bienvenido. Esta web es la parte de **lectura** del curso: aquí puedes leer con
 
 ## Cómo está organizado
 
+- **[Puesta en marcha](INSTALACION.md)** — instalación desde cero (requisitos, clonar el repo, cuenta de Claude).
 - **[Guía de uso](GUIA.md)** — 👈 empieza aquí: cómo arrancar, cómo retomar y qué hacer ante dudas.
 - **[Cómo funciona](METODOLOGIA.md)** — la metodología, la estructura de cada lección y qué modelo de IA usar para cada cosa.
-- **[Temario](TEMARIO.md)** — el recorrido completo, lección por lección (7 módulos + capstone).
+- **[Temario](TEMARIO.md)** — el recorrido completo, lección por lección (8 módulos + capstone).
 - **[Cobertura del máster](COBERTURA-MASTER.md)** — la garantía de que no se queda fuera nada del máster oficial.
 - **[Progreso](PROGRESO.md)** — dónde vas.
 
 ## La promesa
 
-Al terminar tendrás un libro-curso completo, 6 proyectos reales + un capstone, y —lo importante— entenderás de arriba a abajo las herramientas de IA que hoy usas a ciegas, con capacidad para construir las tuyas.
+Al terminar tendrás un libro-curso completo, 7 proyectos reales + un capstone final, y —lo importante— entenderás de arriba a abajo las herramientas de IA que hoy usas a ciegas, con capacidad para construir sistemas de agentes de nivel producción.
 
 ## Cómo estudiar
 

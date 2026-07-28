@@ -55,3 +55,22 @@ No quitamos nada del máster, pero **sí reforzamos** lo que más te conviene co
 - **Mucho más peso en GenAI aplicada** (Módulo 6): RAG, tool use, agentes, APIs, producción. El máster lo toca; nosotros lo llevamos a nivel de construir de verdad.
 - **Enfoque práctico** sobre el teórico en todo el recorrido.
 - **R, TensorFlow y JAX** se cubren para completar el temario del máster, pero con menos profundidad que las herramientas que usarás a diario (Python, PyTorch, scikit-learn). Sabrás qué son, para qué sirven y podrás defenderte con ellas.
+
+---
+
+## Integración del curso Skillsoft — "IA Avanzada Aplicada a Agentes"
+
+Además del máster oficial, hemos integrado el contenido del **Bloque 2: Arquitectura y Desarrollo de Agentes IA** (Skillsoft / Ericsson, 25 h) en el **Módulo 7**. Este es el mapeo:
+
+| Contenido del curso Skillsoft | Se cubre en |
+|-------------------------------|-------------|
+| 2.1. Arquitecturas de Agentes (ReAct, Plan-and-Execute, Reflexion, Tool-Use; ciclo de vida; estado/memoria; errores) | Lección 7.1 |
+| 2.2. LangChain y frameworks (Chains, Agents, Tools, Memory, Callbacks; LangGraph; CrewAI/AutoGen/Semantic Kernel; output parsers) | Lecciones 7.2, 7.3, 7.4 |
+| 2.3. RAG avanzado (chunking, embedding, retrieval; re-ranking, query expansion, hybrid search; RAG sobre docs técnica) | Lección 7.5 |
+| Evaluación de pipelines RAG (relevancia, fidelidad, cobertura) | Lección 7.6 |
+| 2.4. Model Context Protocol (transports, lifecycle, tools/resources/prompts; seguridad; testing) | Lecciones 7.7, 7.8 |
+| 2.5. Sistemas Multi-Agente (arquitecturas, delegación, comunicación, coordinación, versionado) | Lección 7.9 |
+| 2.6. Desarrollo de Tools y Plugins (schemas, wrapping de APIs, testing, documentación) | Lección 7.10 |
+| Proyecto integrador | 🛠️ Proyecto Capstone del Módulo 7 |
+
+> **Nota honesta:** integrar el *contenido* no es lo mismo que hacer el curso en vivo. El curso de Skillsoft es **gratis para ti** (bonificación Fundae), son solo **25 h en horario laboral** (9–14 h, 5–9 oct) y tiene **instructor y compañeros**. Si tu manager lo aprueba, es una buena oportunidad — y luego el Módulo 7 te sirve de repaso y práctica extra. Tú decides; el contenido lo tienes cubierto igualmente.

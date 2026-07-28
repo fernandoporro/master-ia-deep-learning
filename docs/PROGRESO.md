@@ -90,5 +90,19 @@ Tu tracker de avance. Marca `[x]` según completes lecciones, proyectos y tests.
 - [ ] 6.8 — Fine-tuning práctico
 - [ ] 6.9 — Evaluación de sistemas de IA
 - [ ] 6.10 — Poner GenAI en producción
-- [ ] 🛠️ Proyecto Capstone — App GenAI completa
-- [ ] ✅ Test 6 + defensa del capstone
+- [ ] 🛠️ Proyecto 6 — App GenAI completa (RAG + tool use + memoria)
+- [ ] ✅ Test 6
+
+## Módulo 7 — Ingeniería de Agentes en Producción
+- [ ] 7.1 — Patrones de arquitectura de agentes (ReAct, Plan-Execute, Reflexion)
+- [ ] 7.2 — LangChain a fondo
+- [ ] 7.3 — LangGraph (grafos de estado, memoria)
+- [ ] 7.4 — Otros frameworks (CrewAI, AutoGen, Semantic Kernel)
+- [ ] 7.5 — RAG avanzado (re-ranking, hybrid search)
+- [ ] 7.6 — Evaluación de pipelines RAG
+- [ ] 7.7 — MCP I: especificación y diseño de servers
+- [ ] 7.8 — MCP II: seguridad, integración y testing
+- [ ] 7.9 — Sistemas multi-agente
+- [ ] 7.10 — Diseño de tools y plugins
+- [ ] 🛠️ Proyecto Capstone (TFM) — Sistema multi-agente en producción con MCP
+- [ ] ✅ Test 7 + defensa del capstone
