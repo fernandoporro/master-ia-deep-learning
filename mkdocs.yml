@@ -34,6 +34,7 @@ nav:
   - Temario: TEMARIO.md
   - Plan de estudio: PLAN.md
   - Cobertura del máster: COBERTURA-MASTER.md
+  - Recursos externos: RECURSOS.md
   - Progreso: PROGRESO.md
 
 markdown_extensions:

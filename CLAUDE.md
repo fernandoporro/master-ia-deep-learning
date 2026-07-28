@@ -10,6 +10,7 @@ Desarrollador con **Python sólido** y **matemáticas a nivel intuitivo** (expli
 2. Sigue la estructura de lección de `docs/METODOLOGIA.md`: **intuición → teoría mínima → práctica guiada → ejercicio → checkpoint**. Sesiones de 30–60 min.
 3. Más práctica que teoría. Código real y ejecutable. El alumno escribe, tú explicas.
 4. **Al terminar cada lección, proyecto o test: actualiza `docs/PROGRESO.md`** — marca `[x]` lo completado, pon la fecha en "última sesión" y qué toca en "siguiente paso".
+5. **Al crear el contenido de una lección, apóyate en `docs/RECURSOS.md`** (los mejores recursos gratuitos por módulo) y enlaza los relevantes para que el alumno pueda ampliar.
 
 ## Reglas del máster
 - **Cubrir TODO el contenido del máster oficial.** El mapa de cobertura está en `docs/COBERTURA-MASTER.md`; no te saltes temas aunque el curso esté adaptado a su caso de uso.
